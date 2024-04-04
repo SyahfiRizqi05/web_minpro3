@@ -1,0 +1,7 @@
+.carousel-item img {
+    max-width: 50%; /* Mengatur lebar maksimum gambar menjadi 50% dari ukuran carousel */
+    height: auto; /* Menjaga proporsi gambar */
+    margin: 0 auto; /* Mengatur margin otomatis untuk menengahkan gambar */
+    display: block; /* Mengubah tampilan gambar menjadi blok untuk menerapkan margin otomatis */
+  }
+  
